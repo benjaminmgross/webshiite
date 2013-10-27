@@ -1,0 +1,25 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.container {
+  margin-top: 50px;
+  border-color: black;
+}
+
+.jumbotron{
+  margin-top: 100px;
+  margin-left: 100px;
+  margin-right: 100px
+}
+.navbar {
+  margin-bottom: 20px;
+}
+
+.alignleft{
+   float:left;
+}
+.alignright{
+   float:right;
+}
